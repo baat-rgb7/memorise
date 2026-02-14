@@ -1,0 +1,7 @@
+{
+  "name": "Memorise - Calendrier IA",
+  "description": "Un calendrier minimaliste piloté par l'IA pour planifier votre vie par le langage naturel.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
